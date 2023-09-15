@@ -22,10 +22,10 @@ rad.json
 TestResults.xml
 
 node_modules
-config
-src
+
+
 package-lock.json
-package.json
-gulpfile.js
+
+
 README.txt
 snnipets.txt
